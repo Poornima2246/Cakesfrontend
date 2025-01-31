@@ -327,7 +327,7 @@ const ProductDetails = () => {
     console.log("Fetching product with ID:", productId); // Debugging
     const fetchProduct = async () => {
       try {
-        const res = await axios.get(`http://localhost:4000/products/${productId}`);
+        const res = await axios.get(`https://cakesserver.onrender.com/products/${productId}`);
         if (res.status === 404) {
           setError("Product not found.");
         } else {

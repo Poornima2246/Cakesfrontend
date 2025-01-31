@@ -230,7 +230,7 @@ const Addpage = () => {
       data.append("category", formData.category);
   
       try {
-          const res = await axios.post("http://localhost:4000/products", data, {
+          const res = await axios.post("https://cakesserver.onrender.com/products", data, {
               headers: {
                   "Content-Type": "multipart/form-data",
               },
