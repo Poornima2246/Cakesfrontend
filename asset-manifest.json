@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cakesfrontend/static/css/main.187b99aa.css",
-    "main.js": "/Cakesfrontend/static/js/main.6d9b5d61.js",
+    "main.js": "/Cakesfrontend/static/js/main.ee8afd4b.js",
     "static/js/453.d8846cae.chunk.js": "/Cakesfrontend/static/js/453.d8846cae.chunk.js",
     "static/media/h6.png": "/Cakesfrontend/static/media/h6.4fa327d03c7fe2da6935.png",
     "static/media/cake.png": "/Cakesfrontend/static/media/cake.9aed6a27b3369af20cac.png",
@@ -12,11 +12,11 @@
     "static/media/f3.png": "/Cakesfrontend/static/media/f3.dfbc0a70019f83a907fe.png",
     "index.html": "/Cakesfrontend/index.html",
     "main.187b99aa.css.map": "/Cakesfrontend/static/css/main.187b99aa.css.map",
-    "main.6d9b5d61.js.map": "/Cakesfrontend/static/js/main.6d9b5d61.js.map",
+    "main.ee8afd4b.js.map": "/Cakesfrontend/static/js/main.ee8afd4b.js.map",
     "453.d8846cae.chunk.js.map": "/Cakesfrontend/static/js/453.d8846cae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.187b99aa.css",
-    "static/js/main.6d9b5d61.js"
+    "static/js/main.ee8afd4b.js"
   ]
 }
