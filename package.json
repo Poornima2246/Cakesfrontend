@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
  "homepage": "https://Poornima2246.github.io/Cakesfrontend",
+ "proxy": "https://cakesserver.onrender.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

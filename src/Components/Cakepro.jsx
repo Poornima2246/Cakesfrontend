@@ -120,7 +120,7 @@ const ProductPage = () => {
     useEffect(() => {
         const fetchProducts = async () => {
             try {
-                const res = await axios.get("https://cakesserver.onrender.com/products");
+                const res = await axios.get("Fetching products from:", "https://cakesserver.onrender.com/products");
                 setProducts(res.data); // Set the products data
                 setLoading(false); // Set loading to false
             } catch (error) {
